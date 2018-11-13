@@ -3,7 +3,8 @@ package exemplo;
 public class ExemploGit {
 
 	public static void main(String[] args) {
-		System.out.println("Ol· Git!!!");
+		System.out.println("Ol√° Git!!!");
+		// alterado no GIT
 	}
 
 }
